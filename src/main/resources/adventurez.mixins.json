@@ -16,6 +16,7 @@
     "VillagerEntityMixin",
     "ServerPlayNetworkHandlerMixin",
     "EnderDragonFightMixin",
+    "PlayerManagerMixin",
     "NetherPortalBlockMixin",
     "EndPortalBlockMixin",
     "EnderPearlEntityMixin",
