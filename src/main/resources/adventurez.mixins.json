@@ -16,7 +16,6 @@
     "VillagerEntityMixin",
     "ServerPlayNetworkHandlerMixin",
     "EnderDragonFightMixin",
-    "PlayerManagerMixin",
     "NetherPortalBlockMixin",
     "EndPortalBlockMixin",
     "EnderPearlEntityMixin",
@@ -46,6 +45,6 @@
     "client.IronGolemCrackFeatureRendererMixin"
   ],
   "injectors": {
-    "defaultRequire": 1
+    "defaultRequire": 0
   }
 }
